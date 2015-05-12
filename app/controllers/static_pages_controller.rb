@@ -1,4 +1,4 @@
 class StaticPagesController < ApplicationController
-  def the_fresh_prince_of_bel_air
+  def about_me
   end
 end
